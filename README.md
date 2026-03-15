@@ -43,9 +43,6 @@ A live preview of the curve is shown next to the settings.
 ### Visual axis bars
 Real-time bar indicators show the current value of each axis — green for gas, red for brake, blue for steering.
 
-### Dual cursor overlay
-Click the **Dual Cursors** button to show two colored arrows on screen — red for the accelerator mouse and blue for the steering mouse — moving independently on the desktop. Each cursor supports left and right click. Click the button again to close the overlay.
-
 ### Hotkeys
 Assign custom keys to start, stop, and reset axes without clicking buttons. Click a hotkey field and press any key to assign it.
 
