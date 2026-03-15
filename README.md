@@ -28,7 +28,7 @@ Both mice are read independently using Windows Raw Input and mapped to a virtual
 
 ## Finding your mouse handles
 
-Run `detectar.exe` and move each mouse — the handle number will appear on screen. Note which handle belongs to which mouse and enter them in the main app.
+Run `detecthandle.exe` and move each mouse — the handle number will appear on screen. Note which handle belongs to which mouse and enter them in the main app.
 
 ## Settings
 
