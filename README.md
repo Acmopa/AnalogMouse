@@ -51,3 +51,11 @@ Settings are saved automatically when you close the app.
 - Logitech G502 (accelerator)
 - Logitech G305 (steering)
 - BeamNG.drive
+## Windows Security Warning
+
+When you first run the .exe files, Windows may show a security warning.
+This is normal for unsigned applications.
+
+To bypass it:
+1. Click **"More info"**
+2. Click **"Run anyway"**
