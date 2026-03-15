@@ -17,8 +17,8 @@ Both mice are read independently using Windows Raw Input and mapped to a virtual
 ## How to use
 
 1. Install vJoy and enable Device 1 with at least Axis X and Axis Y
-2. Run `detectar.exe` to find the handle numbers for each of your mice
-3. Run `mousesv2.exe`
+2. Run `detecthandle.exe` to find the handle numbers for each of your mice
+3. Run `AnalogMouse.exe`
 4. Enter the handle numbers in the corresponding fields
 5. Adjust sensitivity and threshold to your liking
 6. Click **Start** and open your game
@@ -43,8 +43,8 @@ Settings are saved automatically when you close the app.
 
 ## Files
 
-- `mousesv2.exe` — main controller app
-- `detectar.exe` — tool to find mouse handle numbers
+- `AnalogMouse.exe` — main controller app
+- `detecthandle.exe` — tool to find mouse handle numbers
 
 ## Tested with
 
