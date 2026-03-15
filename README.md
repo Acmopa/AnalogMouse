@@ -1,4 +1,4 @@
-# Dual Mouse Controller
+# AnalogMouse
 
 Control a racing game using two mice — one for gas/brake and one for steering.
 
